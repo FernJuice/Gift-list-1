@@ -10,3 +10,5 @@ and:
 - colours
 - layout
 - python
+
+#### then i added all the images and *HTML* files
